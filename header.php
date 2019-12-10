@@ -17,27 +17,27 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex1.fr">Exercice1</a>
+        <a class="nav-link" href="http://phppartie3ex1.fr">Exercice1</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex2.fr">Exercice2</a>
+        <a class="nav-link" href="http://phppartie3ex2.fr">Exercice2</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex3.fr">Exercice3</a>
+        <a class="nav-link" href="http://phppartie3ex3.fr">Exercice3</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppratie2ex4.fr">Exercice4</a>
+        <a class="nav-link" href="http://phppartie3ex4.fr">Exercice4</a>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex5.fr">Exercice5</a>
+        <a class="nav-link" href="http://phppartie3ex5.fr">Exercice5</a>
         </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex6.fr">Exercice6</a>
+        <a class="nav-link" href="http://phppartie3ex6.fr">Exercice6</a>
         </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex7.fr">Exercice7</a>
+        <a class="nav-link" href="http://phppartie3ex7.fr">Exercice7</a>
         </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://phppartie2ex8.fr">Exercice8</a>
+        <a class="nav-link" href="http://phppartie3ex8.fr">Exercice8</a>
       </li>
     </ul>
   </div>
